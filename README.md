@@ -1,25 +1,11 @@
-<h1 align="center">Hi 👋, I'm Cezary Olborski</h1>
+<h1 align="center">Hello 👋, I'm Cezary Olborski</h1>
 <h3 align="center">CTO | Architect & Team Builder | Engineering Manager | Seasoned Backend (Java, Rust, Python) Engineer</h3>
 <h3 align="center">Blockchain Enthusiast (Polkadot, Substrate, Solana, Ethereum)</h3>
 <h3 align="center">Automation Advocate | DevOps/NoOps Evangelist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czareko&label=Profile%20views&color=0e75b6&style=flat" alt="czareko" /> </p>
 
-I live between Poland 🇵🇱 and Indonesia 🇮🇩
-<!--
-**czareko/czareko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I split my time between Poland 🇵🇱 and Indonesia 🇮🇩
 - 🌱 In recent months, my primary focus has been leveraging Rust & Java in
   -  algorithmic crypto trading
   -  market-making
@@ -58,6 +44,7 @@ I’m using Rust for trading bots, as well as for smart contracts on Solana and 
 <a href="https://gradle.org/"><img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle" alt="Gradle"></a> |
 <a href="https://www.jobrunr.io/"><img src="https://img.shields.io/badge/-JobRunR-FF4500?logo=java" alt="JobRunR"></a> |
 <a href="https://projectreactor.io/"><img src="https://img.shields.io/badge/-Reactor-31B2DF?logo=reactivex" alt="Reactor"></a> |
+<a href="https://lmax-exchange.github.io/disruptor/"><img src="https://img.shields.io/badge/-Disruptor-000000?logo=java" alt="Disruptor"></a> |
 <a href="https://spockframework.org/"><img src="https://img.shields.io/badge/-Spock-000000?logo=spock" alt="Spock"></a> |
 <a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5" alt="JUnit"></a> |
 <a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/-Mockito-4CAF50?logo=mockito" alt="Mockito"></a> |
@@ -161,13 +148,17 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes" alt="Kubernetes"></a> | 
 <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify" alt="Netlify"></a> |
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel" alt="Vercel"></a> |
-<a href="https://railway.app/"><img src="https://img.shields.io/badge/-Railway-000000?logo=railway" alt="Railway"></a>
+<a href="https://railway.app/"><img src="https://img.shields.io/badge/-Railway-000000?logo=railway" alt="Railway"></a> |
+<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare" alt="Cloudflare"></a>
 
-**Git & CI/CD:** <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github" alt="GitHub"></a> |
+**Git | CI/CD | Monitoring:** <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github" alt="GitHub"></a> |
 <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab" alt="GitLab"></a> |
 <a href="https://circleci.com/"><img src="https://img.shields.io/badge/-CircleCI-343434?logo=circleci" alt="CircleCI"></a> |
 <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins" alt="Jenkins"></a> |
-<a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" alt="Bitbucket"></a>
+<a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" alt="Bitbucket"></a> |
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus" alt="Prometheus"></a> |
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana" alt="Grafana"></a> |
+<a href="https://www.elastic.co/kibana/"><img src="https://img.shields.io/badge/-Kibana-005571?logo=kibana" alt="Kibana"></a>
 
 
 #### 🌪️ **Operating systems:**
