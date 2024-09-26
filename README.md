@@ -187,5 +187,5 @@ Most of my contributions are to private repositories or projects outside of GitH
 
 🏆🏆🏆 I hold over 50 professional certifications in the areas of programming, architecture, and project management.
 
-Do you want to know more: Find me on <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
+Do you want to know more, find me on <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
 
