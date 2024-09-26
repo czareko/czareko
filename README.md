@@ -3,6 +3,8 @@
 <h3 align="center">Blockchain Enthusiast (Polkadot, Substrate, Solana, Ethereum)</h3>
 <h3 align="center">Automation Advocate | DevOps/NoOps Evangelist</h3>
 
+<hr/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czareko&label=Profile%20views&color=0e75b6&style=flat" alt="czareko" /> </p>
 
 I split my time between Poland 🇵🇱 and Indonesia 🇮🇩
@@ -17,6 +19,8 @@ I split my time between Poland 🇵🇱 and Indonesia 🇮🇩
 I have 20 years of experience in IT projects, but the technologies and skills listed are limited to those I’ve "worked with" in the past six years.
 
 "worked with" - I have at least tried it locally in a non-trivial business case, but in most cases I did way more.
+
+<hr/>
 
 ### 🔭  Primary programming languages
 
@@ -175,7 +179,9 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 ### Architecture/Programming mindset:
 
 Microservices, Hexagonal Architecture, Serverless CQRS, ES, WEB3.0, DDD, TDD, Code Review, SOLID, Clean Code, XP.
+In recent months, I’ve been experimenting extensively with ChatGPT and IntelliJ AI as support tools for coding and research.
 
+<hr/>
 
 Most of my contributions are to private repositories or projects outside of GitHub. The following statistics only reflect what is publicly visible here.
 
@@ -186,6 +192,8 @@ Most of my contributions are to private repositories or projects outside of GitH
 ![](https://github-profile-trophy.vercel.app/?username=czareko&theme=algolia&column=5)
 
 🏆🏆🏆 I hold over 50 professional certifications in the areas of programming, architecture, and project management.
+
+<hr/>
 
 Do you want to know more, find me on <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
 
