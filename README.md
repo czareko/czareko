@@ -4,7 +4,8 @@
 <h3 align="center">Automation Advocate | DevOps/NoOps Evangelist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czareko&label=Profile%20views&color=0e75b6&style=flat" alt="czareko" /> </p>
-  
+
+I live between Poland 🇵🇱 and Indonesia 🇮🇩
 <!--
 **czareko/czareko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,16 +22,15 @@ Here are some ideas to get you started:
 -->
 - 🌱 In recent months, my primary focus has been leveraging Rust & Java in
   -  algorithmic crypto trading
-  -  market making
-  -  decentralized exchanges (DEX)
-  -  decentralized finance (DeFi)
+  -  market-making
+  -  DEX (decentralized exchanges
+  -  DeFi (decentralized finance)
   -  liquidity management
 - 👯 I'm looking for a good open-source project where I could contribute in RUST
-- 📫 How to reach me: <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
 
 I have 20 years of experience in IT projects, but the technologies and skills listed are limited to those I’ve "worked with" in the past six years.
 
-"worked with" - I have at least tried it locally in a non-trivial business case.
+"worked with" - I have at least tried it locally in a non-trivial business case, but in most cases I did way more.
 
 ### 🔭  Primary programming languages
 
@@ -49,7 +49,7 @@ I have 20 years of experience in IT projects, but the technologies and skills li
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus" alt="Prometheus"></a> |
 <a href="https://docs.rs/mockall/"><img src="https://img.shields.io/badge/-Mockall-333333?logo=rust" alt="Mockall"></a>
 
-I’m using Rust for trading bots, as well as for smart contracts on Solana and pallets on Substrate
+I’m using Rust for trading bots, as well as for smart contracts on Solana and pallets on Substrate.
 
 ### 🎛️ Libraries and frameworks related to Java
 
@@ -63,15 +63,41 @@ I’m using Rust for trading bots, as well as for smart contracts on Solana and 
 <a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/-Mockito-4CAF50?logo=mockito" alt="Mockito"></a> |
 <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate" alt="Hibernate"></a>
 
+In the past 5 years, I have used Java to build highly scalable, stateless solutions in microservices and hexagonal architecture, most often utilizing Kafka and deploying to AWS.
+
 ### 🎛️ Libraries and frameworks related to Python
 
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas" alt="Pandas"></a> |
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy" alt="Numpy"></a> |
+<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma" alt="Prisma"></a> |
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit" alt="Streamlit"></a> |
+<a href="https://apscheduler.readthedocs.io/"><img src="https://img.shields.io/badge/-APScheduler-0078D7?logo=python" alt="APScheduler"></a> |
+<a href="https://web3py.readthedocs.io/"><img src="https://img.shields.io/badge/-web3.py-F16822?logo=ethereum" alt="web3.py"></a> |
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter" alt="Jupyter"></a> |
+<a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/-Poetry-60A5FA?logo=python" alt="Poetry"></a> |
+<a href="https://hummingbot.io/"><img src="https://img.shields.io/badge/-Hummingbot-FF6600?logo=bitcoin" alt="Hummingbot"></a> |
+<a href="https://www.freqtrade.io/"><img src="https://img.shields.io/badge/-FreqTrade-2D3748?logo=python" alt="FreqTrade"></a>
 
+In the past 5 years, I have primarily used Python for crypto trading-related tasks.
 
-### Other programming languages
+### 🧰 Other programming languages & Frameworks
 
-JavaScript, TypeScript, Node.JS, React, JQuery
+<a href="https://soliditylang.org/"><img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity" alt="Solidity"></a> |
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript" alt="JavaScript"></a> |
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript" alt="TypeScript"></a> |
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js" alt="Node.js"></a> |
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react" alt="React"></a> |
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000000?logo=express" alt="Express"></a> |
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql" alt="GraphQL"></a> |
+<a href="https://jquery.com/"><img src="https://img.shields.io/badge/-JQuery-0769AD?logo=jquery" alt="JQuery"></a> |
+<a href="https://golang.org/"><img src="https://img.shields.io/badge/-Go-00ADD8?logo=go" alt="Go"></a> |
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash" alt="Bash"></a> |
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php" alt="PHP"></a> |
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel" alt="Laravel"></a> |
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5" alt="HTML"></a> |
+<a href="https://groovy-lang.org/"><img src="https://img.shields.io/badge/-Groovy-4298B8?logo=apache-groovy" alt="Groovy"></a>
 
-### Blockchain Networks
+### ⛓️‍💥 Blockchain Networks
 
 <a href="https://polkadot.network/"><img src="https://img.shields.io/badge/-Polkadot-E6007A?logo=polkadot" alt="Polkadot"></a> |
 <a href="https://solana.com/"><img src="https://img.shields.io/badge/-Solana-00FFB1?logo=solana" alt="Solana"></a> |
@@ -85,7 +111,7 @@ JavaScript, TypeScript, Node.JS, React, JQuery
 <a href="https://www.aeternity.com/"><img src="https://img.shields.io/badge/-Aeternity-F72E74?logo=aeternity" alt="Aeternity"></a> |
 <a href="https://www.iota.org/"><img src="https://img.shields.io/badge/-IOTA-131E3A?logo=iota" alt="IOTA"></a>
 
-### Crypto Exchanges API integrations
+###  💱 Crypto Exchanges API integrations
 <a href="https://www.binance.com/"><img src="https://img.shields.io/badge/-Binance-F0B90B?logo=binance" alt="Binance"></a> |
 <a href="https://uniswap.org/"><img src="https://img.shields.io/badge/-Uniswap-FF007A?logo=uniswap" alt="Uniswap"></a> |
 <a href="https://raydium.io/"><img src="https://img.shields.io/badge/-Raydium-9A4CFF?logo=raydium" alt="Raydium"></a> |
@@ -97,19 +123,19 @@ JavaScript, TypeScript, Node.JS, React, JQuery
 <a href="https://www.gemini.com/"><img src="https://img.shields.io/badge/-Gemini-00DCFA?logo=gemini" alt="Gemini"></a> |
 <a href="https://www.ithacaprotocol.io/"><img src="https://img.shields.io/badge/-Ithaca%20Protocol-000000?logo=ithaca-protocol" alt="Ithaca Protocol"></a>
 
-### NFT Marketplaces
+### 🦄 NFT Marketplaces
 
 <a href="https://opensea.io/"><img src="https://img.shields.io/badge/-OpenSea-2081E2?logo=opensea" alt="OpenSea"></a> |
 <a href="https://magiceden.io/"><img src="https://img.shields.io/badge/-MagicEden-9146FF?logo=magic-eden" alt="MagicEden"></a>
 
-### Messaging
+### ✉️ Messaging
 
 <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka" alt="Kafka"></a> |
 <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq" alt="RabbitMQ"></a> |
 <a href="https://activemq.apache.org/"><img src="https://img.shields.io/badge/-ActiveMQ-000000?logo=apache" alt="ActiveMQ"></a> |
 <a href="https://activemq.apache.org/components/artemis/"><img src="https://img.shields.io/badge/-Artemis-29A3A3?logo=apache" alt="Artemis"></a>
 
-### Data storage
+### 💾 Data storage
 
 **DB**: <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis" alt="Redis"></a> |
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql" alt="PostgreSQL"></a> |
@@ -125,7 +151,7 @@ JavaScript, TypeScript, Node.JS, React, JQuery
 <a href="https://crust.network/"><img src="https://img.shields.io/badge/-Crust-000000?logo=crust" alt="Crust"></a> |
 <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/-S3-569A31?logo=amazon-s3" alt="S3"></a>
 
-### Infra | CI/CD
+### ⚙️ Infra | CI/CD
 
 **Deployment:** <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws" alt="AWS"></a> | 
 <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud" alt="GCP"></a> |
@@ -144,7 +170,7 @@ JavaScript, TypeScript, Node.JS, React, JQuery
 <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" alt="Bitbucket"></a>
 
 
-#### **Operating systems:**
+#### 🌪️ **Operating systems:**
 
 <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/-CentOS-262577?logo=CentOS" alt="CentOS"></a> |
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu" alt="Ubuntu"></a> |
@@ -162,3 +188,8 @@ Most of my contributions are to private repositories or projects outside of GitH
 
 
 ![](https://github-profile-trophy.vercel.app/?username=czareko&theme=algolia&column=5)
+
+🏆🏆🏆 I hold over 50 professional certifications in the areas of programming, architecture, and project management.
+
+Do you want to know more: Find me on <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
+
