@@ -172,6 +172,11 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 
 #### Favorite IDE: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60">
 
+### Architecture/Programming mindset:
+
+Microservices, Hexagonal Architecture, Serverless CQRS, ES, WEB3.0, DDD, TDD, Code Review, SOLID, Clean Code, XP.
+
+
 Most of my contributions are to private repositories or projects outside of GitHub. The following statistics only reflect what is publicly visible here.
 
 
