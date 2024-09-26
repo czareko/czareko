@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - 👯 I'm looking for a good open-source project where I could contribute in RUST
 - 📫 How to reach me: <a href="https://linkedin.com/in/cezary-olborski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czareko" height="30" width="40" /></a>
 
+I have 20 years of experience in IT projects, but the technologies and skills listed are limited to those I’ve "worked with" in the past six years.
+
+"worked with" - I have at least tried it locally in a non-trivial business case.
+
 ### 🔭  Primary programming languages
 
 <a href="https://www.rust-lang.org/" target="blank"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" alt="Rust" width="20" height="20"/> Rust</a>
@@ -36,13 +40,28 @@ Here are some ideas to get you started:
 
 ### 🎛️ Libraries and frameworks related to Rust
 
-Tokio, Warp, Web3, Diesel, SQLX, Prometheus, Mockall
+<a href="https://tokio.rs/"><img src="https://img.shields.io/badge/-Tokio-333333?logo=tokio" alt="Tokio"></a> |
+<a href="https://docs.rs/warp/"><img src="https://img.shields.io/badge/-Warp-2D3748?logo=warp" alt="Warp"></a> |
+<a href="https://github.com/tomusdrw/rust-web3"><img src="https://img.shields.io/badge/-Web3-3C3C3D?logo=ethereum" alt="Web3"></a> |
+<a href="https://diesel.rs/"><img src="https://img.shields.io/badge/-Diesel-000000?logo=diesel" alt="Diesel"></a> |
+<a href="https://docs.rs/sqlx/"><img src="https://img.shields.io/badge/-SQLX-0078D7?logo=postgresql" alt="SQLX"></a> |
+<a href="https://docs.rs/criterion/"><img src="https://img.shields.io/badge/-Criterion-333333?logo=rust" alt="Criterion"></a> |
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus" alt="Prometheus"></a> |
+<a href="https://docs.rs/mockall/"><img src="https://img.shields.io/badge/-Mockall-333333?logo=rust" alt="Mockall"></a>
 
 I’m using Rust for trading bots, as well as for smart contracts on Solana and pallets on Substrate
 
 ### 🎛️ Libraries and frameworks related to Java
 
-
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring" alt="Spring"></a> |
+<a href="https://projectlombok.org/"><img src="https://img.shields.io/badge/-Lombok-DB7223?logo=lombok" alt="Lombok"></a> |
+<a href="https://gradle.org/"><img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle" alt="Gradle"></a> |
+<a href="https://www.jobrunr.io/"><img src="https://img.shields.io/badge/-JobRunR-FF4500?logo=java" alt="JobRunR"></a> |
+<a href="https://projectreactor.io/"><img src="https://img.shields.io/badge/-Reactor-31B2DF?logo=reactivex" alt="Reactor"></a> |
+<a href="https://spockframework.org/"><img src="https://img.shields.io/badge/-Spock-000000?logo=spock" alt="Spock"></a> |
+<a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/-JUnit-25A162?logo=junit5" alt="JUnit"></a> |
+<a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/-Mockito-4CAF50?logo=mockito" alt="Mockito"></a> |
+<a href="https://hibernate.org/"><img src="https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate" alt="Hibernate"></a>
 
 ### 🎛️ Libraries and frameworks related to Python
 
@@ -50,13 +69,45 @@ I’m using Rust for trading bots, as well as for smart contracts on Solana and 
 
 ### Other programming languages
 
+JavaScript, TypeScript, Node.JS, React, JQuery
+
 ### Blockchain Networks
 
-Polkadot, Solana, Ethereum, Arbitrum, Hyperledger, EOS, VeChain
+<a href="https://polkadot.network/"><img src="https://img.shields.io/badge/-Polkadot-E6007A?logo=polkadot" alt="Polkadot"></a> |
+<a href="https://solana.com/"><img src="https://img.shields.io/badge/-Solana-00FFB1?logo=solana" alt="Solana"></a> |
+<a href="https://ethereum.org/"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum" alt="Ethereum"></a> |
+<a href="https://arbitrum.io/"><img src="https://img.shields.io/badge/-Arbitrum-2D374B?logo=arbitrum" alt="Arbitrum"></a> |
+<a href="https://www.hyperledger.org/"><img src="https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger" alt="Hyperledger"></a> |
+<a href="https://eos.io/"><img src="https://img.shields.io/badge/-EOS-000000?logo=eos" alt="EOS"></a> |
+<a href="https://www.vechain.org/"><img src="https://img.shields.io/badge/-VeChain-00AACC?logo=vechain" alt="VeChain"></a> |
+<a href="https://cosmos.network/"><img src="https://img.shields.io/badge/-Cosmos-2E3148?logo=cosmos" alt="Cosmos"></a> |
+<a href="https://www.perun.network/"><img src="https://img.shields.io/badge/-Perun-0088CC?logo=perun" alt="Perun"></a> |
+<a href="https://www.aeternity.com/"><img src="https://img.shields.io/badge/-Aeternity-F72E74?logo=aeternity" alt="Aeternity"></a> |
+<a href="https://www.iota.org/"><img src="https://img.shields.io/badge/-IOTA-131E3A?logo=iota" alt="IOTA"></a>
+
+### Crypto Exchanges API integrations
+<a href="https://www.binance.com/"><img src="https://img.shields.io/badge/-Binance-F0B90B?logo=binance" alt="Binance"></a> |
+<a href="https://uniswap.org/"><img src="https://img.shields.io/badge/-Uniswap-FF007A?logo=uniswap" alt="Uniswap"></a> |
+<a href="https://raydium.io/"><img src="https://img.shields.io/badge/-Raydium-9A4CFF?logo=raydium" alt="Raydium"></a> |
+<a href="https://www.gate.io/"><img src="https://img.shields.io/badge/-GateIO-11A9E4?logo=gate.io" alt="GateIO"></a> |
+<a href="https://www.kucoin.com/"><img src="https://img.shields.io/badge/-KuCoin-29A3A3?logo=kucoin" alt="KuCoin"></a> |
+<a href="https://www.kraken.com/"><img src="https://img.shields.io/badge/-Kraken-5865F2?logo=kraken" alt="Kraken"></a> |
+<a href="https://www.mexc.com/"><img src="https://img.shields.io/badge/-MEXC-1DC76A?logo=mexc" alt="MEXC"></a> |
+<a href="https://www.deribit.com/"><img src="https://img.shields.io/badge/-Deribit-2EB397?logo=deribit" alt="Deribit"></a> |
+<a href="https://www.gemini.com/"><img src="https://img.shields.io/badge/-Gemini-00DCFA?logo=gemini" alt="Gemini"></a> |
+<a href="https://www.ithacaprotocol.io/"><img src="https://img.shields.io/badge/-Ithaca%20Protocol-000000?logo=ithaca-protocol" alt="Ithaca Protocol"></a>
+
+### NFT Marketplaces
+
+<a href="https://opensea.io/"><img src="https://img.shields.io/badge/-OpenSea-2081E2?logo=opensea" alt="OpenSea"></a> |
+<a href="https://magiceden.io/"><img src="https://img.shields.io/badge/-MagicEden-9146FF?logo=magic-eden" alt="MagicEden"></a>
 
 ### Messaging
 
-Kafka, RabbitMQ, ActiveMQ, Artemis
+<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka" alt="Kafka"></a> |
+<a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq" alt="RabbitMQ"></a> |
+<a href="https://activemq.apache.org/"><img src="https://img.shields.io/badge/-ActiveMQ-000000?logo=apache" alt="ActiveMQ"></a> |
+<a href="https://activemq.apache.org/components/artemis/"><img src="https://img.shields.io/badge/-Artemis-29A3A3?logo=apache" alt="Artemis"></a>
 
 ### Data storage
 
