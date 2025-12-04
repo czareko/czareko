@@ -221,10 +221,6 @@ Daily driver: IntelliJ & Cursor. I'm all about that sweet spot between letting A
 <hr/>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=czareko&" alt="czarkeo" /></p>
-
-
 ![](https://github-profile-trophy.vercel.app/?username=czareko&theme=algolia&column=5)
 
 🏆🏆🏆 I hold over 50 professional certifications in the areas of programming, architecture, and project management.
