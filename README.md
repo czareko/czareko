@@ -1,20 +1,24 @@
 <h1 align="center">Hello 👋, I'm Cezary Olborski</h1>
-<h3 align="center">CTO | Architect & Team Builder | Engineering Manager | Seasoned Backend (Java, Rust, Python) Engineer</h3>
-<h3 align="center">Blockchain Enthusiast (Polkadot, Substrate, Solana, Ethereum)</h3>
+<h3 align="center">CTO | Architect & Team Builder | Engineering Manager | Seasoned Backend (Rust, Java, Python) Engineer</h3>
+<h3 align="center">Blockchain Enthusiast</h3>
 <h3 align="center">Automation Advocate | DevOps/NoOps Evangelist</h3>
-
+<h3 align="center">Working on <a href="https://quantus.com/" target="_blank">Quantus Network</a> - Quantum-Secure Layer 1 Blockchain</h3>
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czareko&label=Profile%20views&color=0e75b6&style=flat" alt="czareko" /> </p>
 
 I split my time between Poland 🇵🇱 and Indonesia 🇮🇩
-- 🌱 In recent months, my primary focus has been leveraging Rust & Java in
-  -  algorithmic crypto trading
-  -  market-making
-  -  DEX (decentralized exchanges
-  -  DeFi (decentralized finance)
-  -  liquidity management
-- 👯 I'm looking for a good open-source project where I could contribute in RUST
+- 🌱 Currently working on **Quantum-secure Layer 1 blockchain** at Quantus Network:
+  -  **Governance & Treasury**: On-chain governance mechanisms, with two communities, treasury, and chain upgrades management
+  -  **Substrate Pallets**: Using, customizing, and building from scratch 
+  -  **Networking & Consensus**: P2P networking (libp2p) and quantum-resistant consensus (QPoW)
+  -  **Mining Infrastructure**: External miner integration, PoW algorithms, mining rewards distribution
+  -  **CLI & Tooling**: Rust command-line interface, key management, developer tools
+  -  **Infra Automation**: Built from scratch: Fedora secure setup, GitHub CI/CD & release pipelines, crate.io publishing, Prometheus monitoring, Grafana dashboards, Telegram alerts, Graylog logging
+- 💼 Previous focus areas:
+  -  Algorithmic crypto trading, market-making, and liquidity management
+  -  DEX (decentralized exchanges) and DeFi (decentralized finance)
+  -  Smart contracts on Solana and Ethereum ecosystems
 
 I have 20 years of experience in IT projects, but the technologies and skills listed are limited to those I’ve "worked with" in the past six years.
 
@@ -30,16 +34,26 @@ I have 20 years of experience in IT projects, but the technologies and skills li
 
 ### 🎛️ Libraries and frameworks related to Rust
 
+**Blockchain & Crypto:**
+<a href="https://substrate.io/"><img src="https://img.shields.io/badge/-Substrate-282828?logo=polkadot" alt="Substrate"></a> |
+<a href="https://paritytech.github.io/polkadot-sdk/master/frame_support/index.html"><img src="https://img.shields.io/badge/-FRAME-000000?logo=polkadot" alt="FRAME"></a> |
+<a href="https://libp2p.io/"><img src="https://img.shields.io/badge/-libp2p-2D3748?logo=libp2p" alt="libp2p"></a> |
+<a href="https://github.com/tomusdrw/rust-web3"><img src="https://img.shields.io/badge/-Web3-3C3C3D?logo=ethereum" alt="Web3"></a>
+
+**Async & Web:**
 <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/-Tokio-333333?logo=tokio" alt="Tokio"></a> |
-<a href="https://docs.rs/warp/"><img src="https://img.shields.io/badge/-Warp-2D3748?logo=warp" alt="Warp"></a> |
-<a href="https://github.com/tomusdrw/rust-web3"><img src="https://img.shields.io/badge/-Web3-3C3C3D?logo=ethereum" alt="Web3"></a> |
+<a href="https://docs.rs/warp/"><img src="https://img.shields.io/badge/-Warp-2D3748?logo=warp" alt="Warp"></a>
+
+**Database:**
 <a href="https://diesel.rs/"><img src="https://img.shields.io/badge/-Diesel-000000?logo=diesel" alt="Diesel"></a> |
-<a href="https://docs.rs/sqlx/"><img src="https://img.shields.io/badge/-SQLX-0078D7?logo=postgresql" alt="SQLX"></a> |
+<a href="https://docs.rs/sqlx/"><img src="https://img.shields.io/badge/-SQLX-0078D7?logo=postgresql" alt="SQLX"></a>
+
+**Testing & Monitoring:**
 <a href="https://docs.rs/criterion/"><img src="https://img.shields.io/badge/-Criterion-333333?logo=rust" alt="Criterion"></a> |
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus" alt="Prometheus"></a> |
 <a href="https://docs.rs/mockall/"><img src="https://img.shields.io/badge/-Mockall-333333?logo=rust" alt="Mockall"></a>
 
-I’m using Rust for trading bots, as well as for smart contracts on Solana and pallets on Substrate.
+I'm using Rust for building Layer 1 blockchain infrastructure (Substrate/FRAME pallets, governance, consensus, P2P networking, CLI tools), trading bots, smart contracts on Solana, and DeFi applications.
 
 ### 🎛️ Libraries and frameworks related to Java
 
@@ -102,6 +116,16 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 <a href="https://www.aeternity.com/"><img src="https://img.shields.io/badge/-Aeternity-F72E74?logo=aeternity" alt="Aeternity"></a> |
 <a href="https://www.iota.org/"><img src="https://img.shields.io/badge/-IOTA-131E3A?logo=iota" alt="IOTA"></a>
 
+### 🔐 Post-Quantum Cryptography & Zero-Knowledge Proofs
+
+**Post-Quantum Cryptography:**
+<a href="https://csrc.nist.gov/projects/post-quantum-cryptography"><img src="https://img.shields.io/badge/-Dilithium%20(NIST)-0B3D91?logo=nist" alt="Dilithium"></a> |
+<a href="https://www.pqcrystals.org/dilithium/"><img src="https://img.shields.io/badge/-CRYSTALS--Dilithium-7851A9?logo=lock" alt="CRYSTALS-Dilithium"></a>
+<a href="https://github.com/0xPolygonZero/plonky2"><img src="https://img.shields.io/badge/-Plonky2-8247E5?logo=polygon" alt="Plonky2"></a> |
+<a href="https://www.poseidon-hash.info/"><img src="https://img.shields.io/badge/-Poseidon%20Hash-1E90FF?logo=hash" alt="Poseidon"></a> |
+
+Working on quantum-secure blockchain infrastructure with NIST-approved post-quantum signatures and zero-knowledge proof systems (Plonky2, Poseidon) for scalability.
+
 ###  💱 Crypto Exchanges API integrations
 <a href="https://www.binance.com/"><img src="https://img.shields.io/badge/-Binance-F0B90B?logo=binance" alt="Binance"></a> |
 <a href="https://uniswap.org/"><img src="https://img.shields.io/badge/-Uniswap-FF007A?logo=uniswap" alt="Uniswap"></a> |
@@ -162,6 +186,7 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket" alt="Bitbucket"></a> |
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus" alt="Prometheus"></a> |
 <a href="https://grafana.com/"><img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana" alt="Grafana"></a> |
+<a href="https://graylog.org/"><img src="https://img.shields.io/badge/-Graylog-FF3633?logo=graylog" alt="Graylog"></a> |
 <a href="https://www.elastic.co/kibana/"><img src="https://img.shields.io/badge/-Kibana-005571?logo=kibana" alt="Kibana"></a>
 
 
@@ -170,6 +195,7 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/-CentOS-262577?logo=CentOS" alt="CentOS"></a> |
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu" alt="Ubuntu"></a> |
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Debian-A81D33?logo=Debian" alt="Debian"></a> |
+<a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/-Fedora-51A2DA?logo=Fedora" alt="Fedora"></a> |
 <a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/-RedHat-EE0000?logo=RedHat" alt="RedHat"></a> |
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-000000?logo=apple" alt="macOS"></a> |
 <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows" alt="Windows"></a>
@@ -179,11 +205,21 @@ In the past 5 years, I have primarily used Python for crypto trading-related tas
 ### Architecture/Programming mindset:
 
 Microservices, Hexagonal Architecture, Serverless CQRS, ES, WEB3.0, DDD, TDD, Code Review, SOLID, Clean Code, XP.
-In recent months, I’ve been experimenting extensively with ChatGPT and IntelliJ AI as support tools for coding and research.
+
+**Blockchain & Infrastructure:**
+- Layer 1 blockchain development with Substrate
+- Custom Substrate pallets development (governance, treasury, mining, reversible-transfers)
+- P2P networking architecture with libp2p
+- Consensus mechanisms (PoW/QPoW) and mining infrastructure
+- CLI development and developer tooling
+- Infrastructure automation (Docker, Prometheus, Grafana)
+- WebAssembly runtime development - all amazing substrate problems with no_std, compatibility, unstable fixes and so on.
+
+**Development on Steroids:**
+Daily driver: IntelliJ & Cursor. I'm all about that sweet spot between letting AI do the heavy lifting and keeping the architecture clean. Not just vibe coding – it's about smart automation that actually makes sense and doesn't turn your codebase into spaghetti.
 
 <hr/>
 
-Most of my contributions are to private repositories or projects outside of GitHub. The following statistics only reflect what is publicly visible here.
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=czareko&" alt="czarkeo" /></p>
